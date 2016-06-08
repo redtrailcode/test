@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "homepage": "https://github.com/redtrailcode/test",
+  "authors": [
+    "Redtrailcode <development@redtrail.nl>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "modernizr": "^3.3.1"
+  }
+}
